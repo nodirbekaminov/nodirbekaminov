@@ -69,8 +69,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nodirbekaminov&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
----
-
-<div align="center">
-  <i>⭐️ Feel free to explore my repositories and connect with me on LinkedIn!</i>
-</div>
