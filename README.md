@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=160&section=header&text=Nodirbek%20Aminov&fontSize=40&fontColor=38bdf8&animation=fadeIn" width="100%" />
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Node.js+%E2%80%A2+Express+%E2%80%A2+MongoDB+%E2%80%A2+React;Building+clean+APIs+and+full-stack+apps;Open+to+junior+developer+opportunities" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Node.js+%E2%80%A2+Express+%E2%80%A2+MongoDB+%E2%80%A2+React;Building+clean+APIs+and+full-stack+apps" alt="Typing SVG" />
 
   <p>
     <a href="https://www.linkedin.com/in/nodir-aminov-bb19bb3a8" target="_blank">
