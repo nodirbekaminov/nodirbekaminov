@@ -47,13 +47,15 @@
 
 ### 🚀 Featured Projects
 
+<!-- PROJECTS:START -->
 | Project | Description | Stack |
 |---|---|---|
-| [**Burak**](https://github.com/nodirbekaminov/burak) | Restaurant backend with an admin panel | TypeScript, Express, MongoDB, EJS |
-| [**Reja**](https://github.com/nodirbekaminov/reja) | First CRUD app from my MERN fullstack course | JavaScript, Node.js, Express |
-| [**Zenmart**](https://github.com/nodirbekaminov/zenmart) | Responsive shop website | HTML, CSS, JavaScript |
-| [**Portfolio**](https://github.com/nodirbekaminov/Website-Portfolio) | Personal portfolio website | HTML, CSS |
-| [**Practice**](https://github.com/nodirbekaminov/practice) | Python and Git fundamentals | Python |
+| [**burak**](https://github.com/nodirbekaminov/burak) | Restaurant backend with an admin panel | TypeScript |
+| [**reja**](https://github.com/nodirbekaminov/reja) | First CRUD app from my MERN fullstack course | JavaScript |
+| [**zenmart**](https://github.com/nodirbekaminov/zenmart) | Responsive shop website | HTML |
+| [**Website-Portfolio**](https://github.com/nodirbekaminov/Website-Portfolio) | Personal portfolio website | HTML |
+| [**practice**](https://github.com/nodirbekaminov/practice) | Python and Git fundamentals | Python |
+<!-- PROJECTS:END -->
 
 ---
 
