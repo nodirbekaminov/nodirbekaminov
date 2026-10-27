@@ -43,21 +43,7 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
 </p>
 
----
 
-### 🚀 Featured Projects
-
-<!-- PROJECTS:START -->
-| Project | Description | Stack |
-|---|---|---|
-| [**burak**](https://github.com/nodirbekaminov/burak) | Restaurant backend with an admin panel | TypeScript |
-| [**reja**](https://github.com/nodirbekaminov/reja) | First CRUD app from my MERN fullstack course | JavaScript |
-| [**zenmart**](https://github.com/nodirbekaminov/zenmart) | Responsive shop website | HTML |
-| [**Website-Portfolio**](https://github.com/nodirbekaminov/Website-Portfolio) | Personal portfolio website | HTML |
-| [**practice**](https://github.com/nodirbekaminov/practice) | Python and Git fundamentals | Python |
-<!-- PROJECTS:END -->
-
----
 
 ### 📊 GitHub Stats
 
